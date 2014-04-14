@@ -63,4 +63,4 @@ function wp_slack_gform_after_submission( $events ) {
 
 	return $events;
 }
-add_action( 'slack_get_events', 'wp_slack_gform_after_submission' );
+add_filter( 'slack_get_events', 'wp_slack_gform_after_submission' );
