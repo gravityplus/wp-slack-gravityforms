@@ -23,6 +23,15 @@
  * GNU General Public License for more details.
  */
 
+/**
+ * Adds new event that send notification to Slack channel
+ * whenever new submission entries are received.
+ *
+ * @param  array $events
+ * @return array
+ *
+ * @filter slack_get_events
+ */
 function wp_slack_gform_after_submission( $events ) {
 	$events['gform_after_submission'] = array(
 		// Action in Gravity Forms to hook in to get the message.
