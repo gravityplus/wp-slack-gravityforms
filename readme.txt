@@ -18,12 +18,13 @@ The new event will be shown on integration setting with text **When new submissi
 
 You can alter the message with `slack_gform_after_submission_message` filter. The filter receives following parameters (ordered by position):
 
+* `$message` &mdash; Default message to send to Slack
 * `$entry` &mdash; The entry that was just created
 * `$form` &mdash; The current form
 
 See [Gravity Forms documentation](http://www.gravityhelp.com/documentation/page/Gform_after_submission).
 
-**Development of this plugin is done on [GitHub](https://github.com/gedex/wp-slack-edd). Pull requests are always welcome**.
+**Development of this plugin is done on [GitHub](https://github.com/gedex/wp-slack-gravityforms). Pull requests are always welcome**.
 
 == Installation ==
 
