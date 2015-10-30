@@ -1,5 +1,5 @@
 === Slack Gravity Forms ===
-Contributors:      akeda
+Contributors:      akeda, gravityplus
 Donate link:       http://goo.gl/DELyuR
 Tags:              slack, api, chat, notification, gf, gravity, forms
 Requires at least: 3.6

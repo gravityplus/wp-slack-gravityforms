@@ -3,7 +3,7 @@
 
 Send notifications to Slack channels whenever new submission entries, for Gravity Forms, are received.
 
-**Contributors:** [akeda](http://profiles.wordpress.org/akeda)  
+**Contributors:** [akeda](http://profiles.wordpress.org/akeda), [gravityplus](http://profiles.wordpress.org/gravityplus)  
 **Tags:** [slack](http://wordpress.org/plugins/tags/slack), [api](http://wordpress.org/plugins/tags/api), [chat](http://wordpress.org/plugins/tags/chat), [notification](http://wordpress.org/plugins/tags/notification), [gf](http://wordpress.org/plugins/tags/gf), [gravity](http://wordpress.org/plugins/tags/gravity), [forms](http://wordpress.org/plugins/tags/forms)  
 **Requires at least:** 3.6  
 **Tested up to:** 3.8.1  
